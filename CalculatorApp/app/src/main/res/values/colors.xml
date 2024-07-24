@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightGrey">#cccccc</color>
+    <color name="blueVar">#007bff</color>
+    <color name="greenVar">#28a745</color>
+    <color name="orangeVar">#ff8800</color>
+    <color name="darkGrey">#333333</color>
+    <color name="coral">#ff6f61</color>
+    <color name="coralLight">#ff8f7e</color>
+    <color name="colorX">#8dc3ff</color>
+    <color name="colorY">#a2ffa2</color>
+    <color name="colorZ">#ffb9b3</color>
+    <color name="red">#FF0000</color>
+
+</resources>
